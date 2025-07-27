@@ -85,15 +85,12 @@ express-fileupload, AWS S3 SDK
   npm run build
   npm run dev
   ```
-### Production Git Repo and URL's
-- Github(main):
-  ```bash
- https://github.com/salmanulfariskk/FileStorageSystem
-  ```
+### Production Git Repo and URLs
+
+- GitHub (main): [https://github.com/salmanulfariskk/FileStorageSystem](https://github.com/salmanulfariskk/FileStorageSystem)
 
 - Live URL: [https://secure-file-storage-five.vercel.app](https://secure-file-storage-five.vercel.app)
 
-  ```
 
 ## API Documentation
 
